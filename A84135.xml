@@ -1,0 +1,234 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The deeds of Dr. Denison a little more manifested. By his ansvver to the defence of John Etherington. VVhich he published in Anno Dom. 1641. against his false accusations and the depositions of his false witnesses. Whereupon he was censured by the high commission court. And his reply to the doctors answer. Which answer he hath added to his Woolfe-sermon booke.</title>
+            <author>Etherington, John, fl. 1641-1645.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84135</idno>
+            <idno type="STC">Wing E3383</idno>
+            <idno type="STC">Thomason E147_9</idno>
+            <idno type="STC">ESTC R22317</idno>
+            <idno type="EEBO-CITATION">99871703</idno>
+            <idno type="PROQUEST">99871703</idno>
+            <idno type="VID">156674</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84135)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156674)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 26:E147[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The deeds of Dr. Denison a little more manifested. By his ansvver to the defence of John Etherington. VVhich he published in Anno Dom. 1641. against his false accusations and the depositions of his false witnesses. Whereupon he was censured by the high commission court. And his reply to the doctors answer. Which answer he hath added to his Woolfe-sermon booke.</title>
+                  <author>Etherington, John, fl. 1641-1645.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by F. L. and are to be sold by Iohn Wright, in the little Old-Baily,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Denison, Stephen, d. 1649 or 50. --  White wolfe.</term>
+               <term>Etherington, John. --  Defence of J.E. against Steven Denison and his witnesses.</term>
+               <term>Great Britain --  Religion --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156674:1"/>
+            <pb facs="tcp:156674:1" rendition="simple:additions"/>
+            <p>THE DEEDS OF D<hi rend="sup">r.</hi> Deniſon A little more manifeſted. BY HIS ANSVVER TO THE DEFENCE OF <hi>John Etherington.</hi> VVhich he publiſhed in <hi>Anno Dom.</hi> 1641. againſt his falſe accuſations and the depoſitions of his falſe witneſ<g ref="char:EOLhyphen"/>ſes. Whereupon he was cenſured by the High Commiſſion Court.</p>
+            <p>And his reply to the Doctors Anſwer. Which anſwer he hath added to his Woolfe-Sermon Booke.</p>
+            <q>
+               <bibl>
+                  <hi>PRO. 11.6.9.</hi>
+               </bibl>
+               <p>The righteouſneſſe of the upright ſhall deliver them, But tranſgreſſors ſhall be taken in their own naughtineſſe,</p>
+               <p>An hypocrite with his mouth deſtroieth his neighbour: But through knowledge ſhall the juſt be preſerved.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>PRO. 12.6.</hi>
+               </bibl>
+               <p>The words of the wicked are to lie in wait for bloud, but the mouth of the upright ſhall deliver them.</p>
+            </q>
+            <p>LONDON, Printed by <hi>F. L.</hi> and are to be ſold by <hi>Iohn Wright,</hi> in the little <hi>Old-Baily,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156674:2"/>
+            <pb facs="tcp:156674:2"/>
+            <head>THE DEEDS OF Doctor <hi>Deniſon,</hi> a little more manifeſted.</head>
+            <head type="sub">IOHN ETHERINGTON's Reply.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N the firſt page of your Anſwer Mr. D. on the 77. page, as it ſtands in the end of your novelliſh booke not to reply to e<g ref="char:EOLhyphen"/>very word or ſaying of yours unmateriall. I charge you with falſhood in this, that you ſay I complained firſt againſt you; where<g ref="char:EOLhyphen"/>as I complained not firſt to go to law in the High-Commiſſion Court which you would ſeem to inferre, and make people beleeve, but only in way of requeſt to have things heard in peace and ended without law; And this was after you had ſcandalized and reviled me by name in your Pulpits, and that I had ſought unto you often, and you would by no means be ſpoken with according as I have declared in my defence. And to the Archbiſhop you prevented me, and got letters Miſſive granted to ſue me in the Court, all which you know very well to be true. Let the Reader now judge who is here to be blamed for falſe ſpeaking, and evill doing you or I.</p>
+            <p>And in the ſecond page of your Anſwer, in that you ſay you might have required of me coſts of ſute, but did not; you tell the Reader a manifeſt untruth, for you did move the Court for coſts of ſuite the ſame time that I was diſcharged, and were checkt and reproved by ſome of the Court for the ſame, and bid hold your peace, as can be proved by ſufficient witneſſe if need be; therefore let the Reader conſider how you favou<g ref="char:EOLhyphen"/>red me as you ſay.</p>
+            <p>
+               <pb facs="tcp:156674:3"/>
+And whereas in the ſame page, you deny that you ſought after, or thirſted for my bloud; beſides the report of a Mini<g ref="char:EOLhyphen"/>ſter, on Maſter <hi>Ward,</hi> that told it me when I was in priſon, as a thing that he heard from your own mouth. Your Woolfe Sermon as you preached it at the Croſſe, did diſcover your de<g ref="char:EOLhyphen"/>ſires in that reſpect, to many that then heard you, and ſo jud<g ref="char:EOLhyphen"/>ged. And in your booke of that Sermon, though it be much altered and refined of many hatefull and bloud-thirſty words you then uttered; yet there is ſtill enough therin that proves the ſame: And in that you deny you ſaid of me by name, <hi>Whe<g ref="char:EOLhyphen"/>ther he be dead or alive, with God, or the devill, I cannot tell, &amp;c.</hi> There is witneſſe ſufficient to prove that you did ſo ſpeak in your Pulpit at <hi>Creechurch,</hi> and that you were my cheife accuſer, except the chiefeſt wicked one, it is well enough known to many. And concerning the Depoſitions of your witneſſes, whom you ſtile honeſt men, Miniſters, and Profeſ<g ref="char:EOLhyphen"/>ſours, no knights of the Poſt, &amp;c. Let the Reader but conſider their depoſitions, which neither they nor you can deny to be their own words, and my defence alſo; and he ſhall ſee if he be judicious, and not partiall, what honeſt profeſſours they are. Men may profeſſe ſtrictneſſe in Religion, as the Phariſees did, and yet be no better then they that bare falſe witneſſe againſt Chriſt, and perſecuted him.</p>
+            <p>And whereas in the third page, you blame me ſo greatly for that in my defence, Mr. <hi>Robrowgh</hi> is ſet down Curate, if he had wrong done him therein, let the Reader blame the Re<g ref="char:EOLhyphen"/>giſter, or <hi>Robrowgh</hi> himſelfe; for ſo I found it in his depoſi<g ref="char:EOLhyphen"/>tion Recorded, which I have yet under the Regiſters hand to ſhew, and whatſoever he is now, he might be ſo then for ought I know; and to have the care of, or be a curer of ſouls, need be no diſparedgement to him; nay rather it would be happie for him if he were ſo.</p>
+            <p>And for your wondring that I ſo charge Sir <hi>Henry Martine</hi> whom you ſo greatly extoll, in the ſame third page, which you ſay I durſt not have done if he had been alive. Whereas it is well known I did it at leaſt ten years before openly to the Court, and in his own hearing and ſight, and he was li<g ref="char:EOLhyphen"/>ving
+<pb facs="tcp:156674:3"/>after my defence was publiſhed in print, though you (ca<g ref="char:EOLhyphen"/>ring not to publiſh lies) ſay the contrary. But Maſter Do<g ref="char:EOLhyphen"/>ctor, you have great reaſon to ſet forth the praiſe of Sir <hi>Henry Martin,</hi> and to extoll him, becauſe he holpe you ſo well out of the mire, wherein you had ſo unadviſedly befowled your ſelfe, not only in this your evill and unchriſtian-like dealing againſt me; but alſo in reſpect of your other buſineſſe at <hi>Cree-Church,</hi> concerning ſome of the chiefe of your Pariſh, for which the Archbiſhop and Court diſplaced you, and eſpeci<g ref="char:EOLhyphen"/>ally that of the women for whch that Knight got you a pur<g ref="char:EOLhyphen"/>gation granted by the Court, that you might thereby clenſe your ſelfe therefrom without any Repentance or Remi<g ref="char:EOLhyphen"/>tion.</p>
+            <p>Theſe are ſome of your ſure ſignes that Sir <hi>Henry Martin</hi> was a righteous Judge, and for which hee ſuffered blame by ſome great men, as the Archbiſhop and ſome other of the Bi<g ref="char:EOLhyphen"/>ſhops the ſame time as you know.</p>
+            <p>Your ſaying in your fourth page, and your glorying in the preſentation and dedication of your booke to the King, I refer to the conſideration of the Reader that hath or ſhall reademy defence, and requeſt him alſo to reade and conſider well your Epiſtle Dedicatorie (of your Wolfes booke) to the King, and ſee how you play the Sycophant and Colloguer eſpecially with the High Commiſſion Court, and Biſhops of <hi>Canterbury</hi> and <hi>London, Abbot</hi> and <hi>Mountney.</hi>
+            </p>
+            <p>And in your fifth page, where you ſay I pretend I could never obtaine to ſpeake with you, &amp;c. and tell of Maſter <hi>Clea<g ref="char:EOLhyphen"/>ver, Robrowgh, Stephens, &amp;c.</hi> and then ſay that I know you have met me divers times in the ſtreets of <hi>London,</hi> and ſaid un<g ref="char:EOLhyphen"/>to me <hi>Iohn Hetherington,</hi> I pray let me ſpeake with you, &amp;c. This tale of yours is a very untruth, for untill I complained of you to the Biſhop of <hi>London,</hi> all the while that you ſcada<g ref="char:EOLhyphen"/>lized and reviled me by name in your Pupits, which was the time wherein I ſay, and you know I often ſought, and could never obtaine to ſpeake with you. And within three dayes after we had beene before the Biſhop of <hi>London,</hi> you entred your ſuit and got Letters Miſſive out againſt me.</p>
+            <p>
+               <pb facs="tcp:156674:4"/>
+It is true, after you had gotten ſentence paſſed againſt me, and that I had enduted three years impriſonment, and being diſ<g ref="char:EOLhyphen"/>charged and at liberty, I met with you at the end of <hi>Cornhill</hi> by the Stocks; and I ſpake to you, and requeſted that I might now ſpeake with you once after all my troubles; and your anſwer or words firſt were, <hi>I am glad thou haſt renounced thy errors;</hi> and I anſwered you, nay, not ſo, but <hi>I</hi> diſclaimed be<g ref="char:EOLhyphen"/>fore the Court thoſe falſe and evill things which you, and your witneſſes had charged me with, I renounce nothing that I held; and ſo we went together up <hi>Cornhill,</hi> and into the Ex<g ref="char:EOLhyphen"/>change, where I told you of your falſe and evill dealing to<g ref="char:EOLhyphen"/>ward me, and of your falſe and wicked Sermon, full of bitter<g ref="char:EOLhyphen"/>neſte, malice, and lies, which you had publiſhed and preached againſt me; and you tooke me up ſhort I confeſſe, and re<g ref="char:EOLhyphen"/>proved me for my boldneſſe, ſaying; <hi>Doſt thou ſpeak thus to a Doctor.</hi> And upon ſome words of reproofe that I uſed unto you for your wicked dealing; you told me, <hi>Thou haſt not the keyes, I have the keyes &amp;c.</hi> and then after other words you ſlung away in a fury threatning me.</p>
+            <p>It is true alſo, that I have met with you, and you with me oftentimes ſince? when you have given me very curriſh and threatning words as I paſſed by you, once in <hi>Thames-ſtreet</hi> neere <hi>Queen-hive,</hi> when you ſaid, <hi>Hetherington, I hear you keep Conventicles ſtill, I muſt have you up agaiue,</hi> And ano<g ref="char:EOLhyphen"/>ther time in <hi>Cornhill</hi> by the Conduit, when your foule matter concerning the women was in ſuit in the Court? where you ſaid to me <hi>I heare thou haſt a hand in my buſinesſe,</hi> and threat<g ref="char:EOLhyphen"/>ning me with ſomething you would do if I had, your conſci<g ref="char:EOLhyphen"/>ence as it ſeems accuſing you; whereas I had no hand in that buſineſſe at all from the begining thereof, to the end. And once I confeſſe about two yeers ago, ſince your buſineſſe with the women was paſt, <hi>I</hi> met you in the ſtreet behind the <hi>Exchange,</hi> and you called to me ſaying, (not as you ſay <hi>I pray let me ſpeak with you;</hi> but <hi>Iohn Hetherington I would ſpeake with thee,</hi> and theſe were the fauell words that ever you ſpake to me, and this was but once not often, as you ſay. And <hi>I</hi> an<g ref="char:EOLhyphen"/>ſwered you, <hi>ſpeake with me, to what end,</hi> and ſo <hi>I</hi> paſſed by
+<pb facs="tcp:156674:4"/>you; but as for grinding at you with my teeth; or ſaying <hi>I</hi> ſcorn it, is a meere lie, <hi>I</hi> never uſed any ſuch geſture or words to you, or any man elſe. So that in all this, you have ſhewed your ſelfe to be both fooliſhly proud, to uſe your own phraſe, and a falſe canning equivocator in deed and word.</p>
+            <p>As touching your 6, 7, and 8, pages, I need not ſay any thing more then what is in my defence.</p>
+            <p>And in the ninth page, where you mention ſundry books, as an Epiſtle to the Church of <hi>Rome the tree of Regeneration,</hi> T. L. <hi>upon ſome part of the Revelation.</hi> And my booke a<g ref="char:EOLhyphen"/>gainſt <hi>Anabaptiſts; I</hi> adviſe the Reader not to beleeve your bare report, but to read and conſider the bookes, and then judge as he findes.</p>
+            <p>And concerning the Sabbath, and the obſervation of the firſt day of the weeke, <hi>I</hi> have declared my minde in my de<g ref="char:EOLhyphen"/>fence, and elſe-where; which <hi>I</hi> requeſt the judicious Reader to thinke of and judge as he ſeeth cauſe, and not let D. D. be the judge.</p>
+            <p>And in the tenth page you ſay that <hi>I</hi> vilifie the Sacraments, particularly that of Baptiſme; in that <hi>I</hi> ſay it doth not con<g ref="char:EOLhyphen"/>vey grace, nor conſume it to the heart of any man, no more then circumciſion did. Let the Chriſtian Reader that is not <hi>Arminiamiſh</hi> nor <hi>Popiſh,</hi> but truly <hi>Orthodoxall,</hi> judge if this be a vilifying of Baptiſme, or if it be a holding of no baptiſme, but that of Repentance and Regeneration, or a point of <hi>Fami<g ref="char:EOLhyphen"/>liſme</hi> as you ſpeake.</p>
+            <p>And to ſay that <hi>Caeſar</hi> may command a place for the pub<g ref="char:EOLhyphen"/>lique worſhip of God, ſo he forbid none in private, and ex<g ref="char:EOLhyphen"/>plaining my indening as <hi>I</hi> have done in my <gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ence; if this be equivocation, or a familiſticall wicke, or that of yours M. <hi>Doctor,</hi> in your Wolviſh-Sermon booke, page 44. where you quote a page of my booke againſt <hi>Anabaptiſts;</hi> where theſe words <hi>Caeſar may command a place for the publique, &amp;c.</hi> are, and <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>: out two of my words and put in one of your own in<g ref="char:EOLhyphen"/>ſtead of them, as your reverend witneſſe <hi>Henry Robrough</hi> hath alſo done affirming them upon his oath to be my words.</p>
+            <p>
+               <hi>I</hi> pray you Maſter <hi>Doctor,</hi> why do you not anſwer this, and
+<pb facs="tcp:156674:5"/>cleere your ſelfe and your witneſſe of this equivocation, falſe<g ref="char:EOLhyphen"/>hood, and falſe-witneſſe-bearing, but ſmother it over with this new trick of your old lying and ſcandalous ſpeaking as before in your Pulpits and Sermons, ſo now here in your an<g ref="char:EOLhyphen"/>ſwer to my defence.</p>
+            <p>And I pray you Sir, why do you not mention the words of thoſe factious books of mine (as you call them) that do con<g ref="char:EOLhyphen"/>demne all Reformers? <hi>I</hi> own no ſuch books, or words. Theſe are but your old ſcandalous and falſe affirmations; In my de<g ref="char:EOLhyphen"/>fence it may be ſeen by my words what <hi>I</hi> meane concerning the Church of <hi>England.</hi>
+            </p>
+            <p>And whereas in page 11. you affirme, that becauſe I ſay the true Church of Chriſt conſiſteth of true regenerate ſervants of God, ſanctified by faith in Chriſt: therefore <hi>I</hi> hereby de<g ref="char:EOLhyphen"/>nie the Church of <hi>England</hi> to be a true Church of Chriſt. It is manifeſt by this affirmation of yours, that your ſelfe do deny the Church or <hi>England,</hi> to be a true Church of Chriſt; for if you denie it to be of that holy univerſall Church which con<g ref="char:EOLhyphen"/>ſiſteth of Saints regenerate (as by neceſſarie conſequence from your words) you do; then it is you that do it, and not I.</p>
+            <p>
+               <hi>I</hi> ſay the Church of <hi>England</hi> as it is, and may be called a true Church of Chriſt, is and muſt needs be a part of that holy univerſall; although in the outward eſtate thereof, there are, and may be many in it that are not ſanctified (and ſo not of it. And it is not your often clamour, and ſcandalous termes of fa<g ref="char:EOLhyphen"/>miliſme, &amp;c. that can make your matter good, or cleere your witneſſe <hi>Henry Robrowgh</hi> (that depoſeth this very thing a<g ref="char:EOLhyphen"/>gainſt me upon the ſame ground) whereby he himſelfe denies the Church of <hi>England</hi> to be a true Church of Chriſt, nor prove any thing againſt me. Let the Reader conſider and judge of theſe things.</p>
+            <p>And in that you ſay, and your witneſſes ſweare that <hi>I</hi> charge the Church of <hi>England</hi> with teaching falſe doctrine, becauſe <hi>I</hi> have charged you, and ſome ſuch as you are, there<g ref="char:EOLhyphen"/>with, as if the Church of <hi>England</hi> conſiſted of them, and you; Nay, Sir, that is not ſo, neither will it ſo follow, though your falſe witneſſe hath ſworn it.</p>
+            <p>
+               <pb facs="tcp:156674:5"/>
+The Doctrine that I except againſt both in you, and them I will mention ſome part. And firſt this of yours.</p>
+            <p>That the fourth Commandement touching the Sabbath was alwaies, and in every part mortall, and in no part Cere<g ref="char:EOLhyphen"/>moniall; affirming for proofe thereof, and ſaying, It was command in <hi>Paradiſe,</hi> before any Ceremonie was hatcht.</p>
+            <p n="2">2 That Chriſt between his reſurrection and aſcention did alter the Commandement from the ſeventh day; to the firſt; and informed his Apoſtles thereof.</p>
+            <p n="3">3 That Chriſtians are now bound by the ſame fourth Com<g ref="char:EOLhyphen"/>mandement, to as ſtrict an obſervation of the firſt day of the weeke, as the Jews were of the ſeventh.</p>
+            <p n="4">4 That Chriſt when he bid the man that was healed on the Sabbath day, take up his bed and walk, He commanded the the breach of a mortall precept.</p>
+            <p>All this he ſaid in his inveying againſt me by name in his Pulpits; and becauſe I had once (many years before) done ſome ſmall worke upon a needfull occaſion on the firſt day of thee weeke, which he had heard of, he brake out a<g ref="char:EOLhyphen"/>gainſt me vehemently affirming that I could not be of God; and ſaying for proofe thereof (uſing the words of the Phariſees againſt Chriſt) <hi>We know</hi> (as it is written) <hi>this man is not of God, becauſe he keepeth not the Sabbath day,</hi> Iohn 9.16.</p>
+            <p n="5">5 That; uſtifying faith is before repentance, and affirming that it is a damnable error, to hold that repentance doth ne<g ref="char:EOLhyphen"/>ceſſarily go before juſtification from our ſins by faith, or juſti<g ref="char:EOLhyphen"/>fying faith.</p>
+            <p n="6">6 That when God to prove <hi>Abraham,</hi> commanded him to offer his Son for a ſacrifice; he commanded him to murder him, and to break the ſixth Commandement.</p>
+            <p n="7">7 That the <hi>Iſralitas</hi> in taking ſuch things of the <hi>Egiptians.</hi> as they in favour let them have, did ſteal from them and break the eighth Commandement, and that God did approve of the breach thereof.</p>
+            <p n="8">8 That God is not only a ſpectator, but a powerfull agent in ſinne.</p>
+            <p n="9">9 That God did preordaine that <hi>Adam</hi> ſhould fall and break his commandement.</p>
+            <p n="10">
+               <pb facs="tcp:156674:6"/>
+10 That the Prophet <hi>Eliſha</hi> in ſaying to <hi>Naaman</hi> the <hi>Aſ<g ref="char:EOLhyphen"/>ſyrian, Go in peace;</hi> did ſay as much, as get thou gone thou hypocrite, get thee hence.</p>
+            <p n="11">11 That Chriſt may yet perſonally deſcend from heaven to the earth before the day of judgement, for any Scripture there is to the contrary, and that although it be ſaid <hi>the hea<g ref="char:EOLhyphen"/>vens ſhall receive Chriſt untill the times of the reſtitution of all things,</hi> Yet it is not ſaid they ſhall contain him till then.</p>
+            <p>Theſe are part of <hi>Stephen Deniſons</hi> doctrine which he deli<g ref="char:EOLhyphen"/>vered in his Sermons preached at <hi>Creechurch,</hi> and great <hi>Al<g ref="char:EOLhyphen"/>hallowes,</hi> while he was reviling and ſcandalizing of me, all which doctrine I account falſe.</p>
+            <p>And by ſome others whom I will not now name, but ſhall hereafter if occaſion require. It hath been taught, that the Jewes ſhould be delivered (every one of them remainig alive) out of all Countries to the land of <hi>Canaan,</hi> and be converted all of them to be true chriſtians, and dwell in the land in great glory, with a great King of their own ſtocke (either Chriſt himſelfe, or ſome other in his ſtead) for a thouſand yeares be<g ref="char:EOLhyphen"/>fore the end of the world.</p>
+            <p>And by others, that Chriſt ſhall indeed come perſonally and raiſe up all the Saints that have ſuffered) or as ſome of them teach) all the Saints in generall that are aſleepe, and raigne with them on earth a thouſand years before the end of the world, and reſurrection of the unjuſt; which doctrine of theſe. I alſo account falſe and contrary to the Scriptures.</p>
+            <p>And concerning <hi>Robrowghs</hi> falſe doctrine, I have in part ſpoken in my defence, and I hope hereafter things ſhall be manifeſted more fully concerning that paſſage betweene him and me.</p>
+            <p>And whereas in the end of your eleventh page you affirme of me that I ſticke not to ſay, that I hold the Sabbath to be in force, and that the laſt day of the weeke is to be obſerved. I pray Mr. Doctor, when, or where have I ſpoken or writ theſe words, that the laſt day of the weeke is to be obſerved, who juggles and equivocates now?</p>
+            <p>And in your twelfe page, how you have anſwered my de<g ref="char:EOLhyphen"/>fence,
+<pb facs="tcp:156674:6"/>I refer to the judicious Reader, that hath, or ſhall reade both, to conſider. Your foule tearms with thoſe that are wiſe, will worke nothing againſt me.</p>
+            <p>And for your falſe clamours in the thirteenth page, that I will have no duties preſſed on the Lords-Day, neither prayers, nor preaching, nor comming to the Sacraments; but chriſti<g ref="char:EOLhyphen"/>ans left to do what they liſt. I hope the Reader will diſcerne you in this, becauſe he may ſee in my defence it is otherwiſe, and that you utter out falſe words of your own inventing, ha<g ref="char:EOLhyphen"/>ving no reſpect at all unto truth, or a good conſcience.</p>
+            <p>And for thoſe Authors which I have quoated in my defence, whom you ſay I have notoriouſly abuſed, I refer the Reader to their own Records; to ſee if I have abuſed them or no.</p>
+            <p>And as touching the two laſt books of <hi>Eſdras,</hi> I have decla<g ref="char:EOLhyphen"/>red my minde already in my defence; only this I ſay further, that it is manifeſt by the account of the Generalogie, and other paſſages in <hi>Ezra</hi> the 7. compared with 1 <hi>Eſdras</hi> 8. they are one and the ſame; and therfore in ſundry former bibles theſe two laſt books are numbred the 3, and 4, of <hi>Eſdras.</hi> And for thoſe words or names of diſtinction, Canonicall and Apocry<g ref="char:EOLhyphen"/>phall, I take them to intend nothing but this; That the one part of Scripture being found written in the Hebrew tongue, and being for that cauſe, and ſundry other more manifeſt, and certain proofs concluded in the firſt times of the Church to be the Word of the Lord certainly, was therefore called canoni<g ref="char:EOLhyphen"/>call. The other part not ſo found, nor as yet for that preſent ſo evidently proved and manifeſted to the Church, to be ſo certainly the word of the Lord, as the other was left as Scrip<g ref="char:EOLhyphen"/>tures, yet ſecret and hidden; and therefore called Apocry<g ref="char:EOLhyphen"/>phall; not but that it might (at leaſt ſome part thereof, be found and proved certainly to be the Word of the Lord, as well as the other, and ſo concluded and received by the church of God; though it be not, nor hath any need to be called ca<g ref="char:EOLhyphen"/>nonicall, nor is ever the worſe in it ſelfe, for the name Apo<g ref="char:EOLhyphen"/>cryphall; nor unto ſuch as underſtand in their heart, and be<g ref="char:EOLhyphen"/>leeve the truth thereof.</p>
+            <p>And in the 14. page, or 90. as it ſtands in the end of your
+<pb facs="tcp:156674:7"/>wolviſh ſermon-book, were you ſpeake of private meetings by the lawes prohibited, and poiſonfull doctrines, &amp;c. what you pleaſe there to ſpeak. As touching the firſt part, <hi>I</hi> referre the Reader to my defence againſt your laſt Article.</p>
+            <p>But as concerning the other part which you call the ſeventh thing culpable; where you ſay I affirm, and that moſt peſtilently, that outward baptiſme doth neither confer nor confirme grace to the heart of any man, no more then circumciſion did &amp;c.</p>
+            <p>I pray ſir, are you a Papiſt, or an Arminian, or an Anabap<g ref="char:EOLhyphen"/>tiſt, for belike you hold it doth, as they teach. <hi>I</hi> confeſſe I hold that it doth not no more then circumciſion in the fleſh did, according as the right Proteſtants hold; neither is this a moſt peſtilent thing, as you blaſphemouſly ſpeak, but the very truth in this point. Grace is confer'd and confirmed to the heart of a chriſtian by a more ſupernaturall power, then is or can be in the outward act of baptiſme, even by the power and Spirit of God. Outward baptiſeme, I hold to be an outward ſeal of Gods faithfulneſſe; in, and as touching his covenant to the faithfull, and their ſeed; as circumciſion in the fleſh was to faithfull <hi>Abraham,</hi> and his ſeed. And that it is an outward ſigne ſhewing that we muſt be circumciſed, or cleanſed in heart by the grace and Spirit of God, through faith in Chriſt, if ever we be heirs with <hi>Abraham.</hi> And ſo I hold outward baptiſme to be in force unto chriſtians, as circumciſion was to the Jews, contrary to your lying words, that ſay I deny it. Neither is this a familiſticall trick as you ſo ſcandalouſly ſpeak, according to your old cuſtomes in your wolviſh booke, and in your for<g ref="char:EOLhyphen"/>mer invective Sermons.</p>
+            <p>And although there be now no High-Commiſſion Court, as you tell me; implying that you would complain againſt me again there, if there were; yet let me tell you ſir, there are o<g ref="char:EOLhyphen"/>ther Courts as high and as good as that, and lawes alſo as juſt, and good to judge of theſe matters, unto which you may com<g ref="char:EOLhyphen"/>plain if you pleaſe.</p>
+            <p>And whereas in your 91 page, otherwiſe the 15, you ſay I have a fling at the Lords Supper (a fine phraſe for a Doctor) And that under colour of ſpeaking againſt the carnall eating
+<pb facs="tcp:156674:7"/>and drinking the body and bloud of Chriſt in that Sacrament. You ſay I condemne alſo the opinion of ſpirituall eating; for ſay you, theſe are my words; Neither do we by the actions of eating the bread, and drinking the wine of the Sacrament, eat or drink the grace of God purchaſed by the body and bloud of Chriſt. I confeſſe theſe are my words in my defence.</p>
+            <p>Now I pray ſir, do I in theſe words deny, or condemne the opinion as you ſpeak, of ſpirituall eating and drinking the bo<g ref="char:EOLhyphen"/>die and bloud of Chriſt, or the ſpirituall enjoyment of the grace and love of God through faith in Chriſt, which that Sacra<g ref="char:EOLhyphen"/>ment of the Supper doth ſhew forth unto all true chriſtians. Nay, let the judicious chriſtian Reader judge and conſider what is further expreſt in my defence.</p>
+            <p>But you Mr. Doctor, your opinion and doctrine belike is, that Chriſtians by the very acts of eating the bread, and drin<g ref="char:EOLhyphen"/>king the wine of the Sacrament, eate and drinke the grace of God. Is this your orthodoxall doctrine ſir,, is this your opi<g ref="char:EOLhyphen"/>nion of ſpirituall eating? a fit man ſure, are you not, to preach the Lecture of preparation to the Sacrament, as you are admit<g ref="char:EOLhyphen"/>ted to do at <hi>Buttolphs</hi> without <hi>Algate,</hi> and well are the people taught there the while, are they not, let the orthodoxall Rea<g ref="char:EOLhyphen"/>der judge.</p>
+            <p>That religious gentlewoman (as I ſuppoſe ſhe truly was, which gave you that legacie to performe that work) had done far better if ſhe had given it to the poore widdow and father<g ref="char:EOLhyphen"/>leſſe, or have left the ſame to ſuch over-ſeers as ſhould have diſpoſed it to ſome one that could and would have performed the worke better, and more found them ſo.</p>
+            <p>Now to make ſome uſe of your owne phraſe, M. Doctor, who doth groſly abuſe divinitie, who is the proud ignorant ſott, who is meet to be cenſured to ſtand at <hi>Pauls-Croſſe</hi> with a paper on his breaſt expreſſing his groſly abuſing divinitie, and venting falſe doctrine poiſoning of others, with a thouſand eies looking upon him, Doctor <hi>Deniſon,</hi> or who, let the ju<g ref="char:EOLhyphen"/>dicious reader judge?</p>
+            <p>It is true, M. Doctor, that through you, and your falſe wit<g ref="char:EOLhyphen"/>neſſes <hi>Henry Robroſtgh,</hi> and <hi>Iohn Okeie,</hi> and by their falſe
+<pb facs="tcp:156674:8"/>depoſitions; falſe I ſay, as the Reader by my defence may plainly ſee. One Biſhop ſaid in paſſing ſentence, according as you in your anſwer at the end of your wolviſh booke have ſet it down; which I had my ſelfe written in a coppie of my de<g ref="char:EOLhyphen"/>fence, which you had unjuſtly gotten, and kept among you from me, otherwiſe I ſuppoſe you could not ſo readily have mentioned them; but it is no matter, I have ſuffered a great deale more then that, by your falſe and wicked dealing, and the reſt of your falſe witneſſes, <hi>Rowland Thomſon, Thomas Ro<g ref="char:EOLhyphen"/>gers, George Dun, Peter Worceſter, Chriſtopher Nicholſon,</hi> and the reſt; as I have in my defence in ſome part declared.</p>
+            <p>And now M. Doctor, let me propound a matter or two unto you. You may ſee, and ſo may others by this and by my de<g ref="char:EOLhyphen"/>fence eſpeciall; how plainly and openly I have declared and publiſhed the things by you charged, by your witneſſes depo<g ref="char:EOLhyphen"/>ſed, and by the High-Commiſſion Court paſſed in ſentence a<g ref="char:EOLhyphen"/>gainſt me, and what in part I have ſuffered, and do ſtill ſuffer through the ſame. And you may ſee how I refer all to the ju<g ref="char:EOLhyphen"/>dicious chriſtian Reader, to conſider of, and judge.</p>
+            <p>You know ſir that after this cauſe of yours againſt me, there was (as I have a little remembred you of before) a Cauſe or two commenced againſt your ſelfe in the ſame High Comiſ<g ref="char:EOLhyphen"/>ſion Court, concerning ſome of the chiefe of your Poriſh of <hi>Creechurch,</hi> and ſome ſeverall women, whom you were char<g ref="char:EOLhyphen"/>ged to have abuſed. They of your Pariſh publiquely in your Pulpit, and the women ſecretly in your chamber; I will not here name the particular abuſes, they were plainly enough ſpoken and read in the Court; the fouleneſſe whereof being ſuch, as cauſed all, or the moſt part of the people there preſent, hearing the ſame, to hang down their heads greatly aſhamed thereat, when you ſtood holding up your head boldly in the face of the Court, not ſeeming to be aſhamed at all, which ma<g ref="char:EOLhyphen"/>ny did wonder at to behold; and one Biſhop obſerving you, and having heard the foule matters that were depoſed againſt you by ſo many witneſſs (as you know) not knight of the poſt ſir, any more then as you tell me they were not, that de<g ref="char:EOLhyphen"/>poſed your Cauſe againſt me; but ſuch, as if the Reader pleaſe
+<pb facs="tcp:156674:8"/>he may inquire of as you ſpeak. This Biſhop as you may re<g ref="char:EOLhyphen"/>member, reproved you very ſharply; and ſaid, do you ſee how boldly he ſtands here before us, facing us, he hath a fore<g ref="char:EOLhyphen"/>head of braſſe.</p>
+            <p>Now ſir, if your Cauſe be ſo good, and your ſelfe ſo honeſt and innocent as you would have all men think (which yet they do not) wright done all what your accuſers have charged you with, and what hath been depoſed againſt you, and by what manner of perſons, every thing in their own plain words, and what the ſentence of the Court was, and publiſh the ſame o<g ref="char:EOLhyphen"/>penly in print, with your defence unto every particular charge and depoſition, as you ſee I have done that of yours againſt me. Do this I ſay if your cauſe be good, and cleane, and your ſelfe honeſt, and upright, (it will be no greater chage I ſuppoſe then the new re-printing of your wolfe-ſermon; that ſo all men may ſee plainly, and judge of the cauſe, and you accord<g ref="char:EOLhyphen"/>ingly. But otherwiſe, if it be naught and foule, and your ſelf juſtly charged, as you in your owne conſcience know beſt; then let it alone except in the way of humble confeſſion of your ſins unto God in true repentance, if it be poſſible.</p>
+            <p>Another thing that I propound unto you is, concerning my ſelfe, and you, and your witneſſes; ſeeing my defence will not ſilent you, nor all that I have unjuſtly ſuffered by your meanes, ſatisfie you; that you, and they will be willing with me, to have all matters between us heard and conſidered of anew in a faire way, either before the Biſhop of <hi>London,</hi> and ſome other Miniſters choſen on both ſides, or elſe by ſome Committee of the Parliament, if it may be obiained, that ſo the blame may be laid rightlie where it ought.</p>
+            <p>And as touching your <hi>Pauls-Croſſe</hi> wolviſh-ſermon, that maſter-peece of yours, which you in the concluſion of your an<g ref="char:EOLhyphen"/>ſwer to my defence; ſay you have for this Cauſe cauſed to be new printed, that ſo the Reader may ſee whether I have anſwered what concerns me in it, or no, telling in print, of purpoſe, a ma<g ref="char:EOLhyphen"/>nifeſt lie, it being not in any part new printed, but only the rem under of an old impreſſion, printed in <hi>Anno</hi> 1627. foure<g ref="char:EOLhyphen"/>teen years agoe, to which you have put a new title page, da<g ref="char:EOLhyphen"/>ted
+<pb facs="tcp:156674:9"/>1641. and added your anſwer to the end, numbering the pages thereof, according to your old booke, as if indeed all were printed anew together according to your ſaying; ſo to delude the Reader, as your uſuall cuſtome and manner in all your matters is and hath been to do, with cunning equivoca<g ref="char:EOLhyphen"/>tions, falſhood, and lies, whereof that wolviſh-ſermon book of yours is full, agreeable to your Articles againſt me in the Court, and to your witneſſes depoſitions, for like maſter, like ſchollers and ſervants, like accuſer, like witneſſes. And for your booke, I ſay no more of it at this time, but this, let it re<g ref="char:EOLhyphen"/>maine among the reſt of your deeds, as it hitherto hath beene a monument to the world of your wickedneſſe and folly. And ſo I leave you, and your witneſſes together a while, to conſider of all what you have done, and of my propoſitions; though I have not any beliefe that you will regard my motion, or have a thought in your heart to do either the one, or the other.</p>
+            <q>
+               <bibl>
+                  <hi>IOHN 3.</hi>
+               </bibl>
+               <p>For every one that doth evill hateth the light. neither cometh to the light, leaſt his deeds ſhould be reproved.</p>
+               <p>But he that doth truth, cometh to the light, that his deeds may be made manifeſt.</p>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
